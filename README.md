@@ -40,8 +40,8 @@ Pronto! Você pode visualizar o WatchMe através do endereço http://localhost:3
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [ReactJS](https://reactjs.org/)
-- [HTML5]()
-- [CSS3]()
+- [HTML5](https://html.com/)
+- [CSS3](https://www.w3schools.com/html/html_css.asp)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Styled Components](https://styled-components.com/)
 - [JSON Server](https://github.com/typicode/json-server)
